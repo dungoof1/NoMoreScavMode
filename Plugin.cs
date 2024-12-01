@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using BepInEx.Logging;
 using BepInEx;
+using NoMoreScavMode.Patches;
 
 namespace NoMoreScavMode
 {
